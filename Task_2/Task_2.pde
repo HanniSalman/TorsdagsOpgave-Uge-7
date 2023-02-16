@@ -52,3 +52,4 @@ boolean checkL(String letter){
 }
 
 //2.e
+// Lavet tidligere.
